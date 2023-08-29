@@ -1,0 +1,11 @@
+https://api.themoviedb.org/3/movie/550?api_key=8fa8fe67b5f6b84aedfe04b2350639db
+
+
+https://developer.themoviedb.org/reference/intro/getting-started
+
+se requiere mostrar la data en el navegador:
+los siguientes items en una lista utilizan Fetch API u otro.
+
+"original_title"
+overview
+"poster_path
